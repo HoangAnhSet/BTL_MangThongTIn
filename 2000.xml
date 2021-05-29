@@ -1,0 +1,8 @@
+<include>
+    <user id="2000">
+        <params>
+            <param name="password" value="PASS"/>
+            <param name="vm-password"value="2000"/>
+        </params>
+    </user>
+</include>
